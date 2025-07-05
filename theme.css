@@ -1,2 +1,6 @@
 /* --Core CSS-- */
-.body {}
+.body {background-color: #4f692c;}
+#intro {height: 100vw; width: 100vw;}
+h1 {color: #f9d7d9; font-family: "Fira Sans", sans-serif;}
+.center {text-align: center}
+.intro-header {margin-top: 45vw;}
