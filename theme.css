@@ -21,8 +21,8 @@ section {min-height: 5vh; padding-bottom: 1vh; padding-top: 1vh;}
 .flex-50 {width: 48%; padding 2%;}
 section.footer {padding-bottom: 50px}
 .padded {padding: 10px 20px}
-.plan {background-image: linear-gradient(to bottom, #4f692c 0%, #4f692c 90%, #f9d7d9 100%); background-color: #f9d7d9}
-.faqs {background-image: linear-gradient(to bottom, #f9d7d9 0%, #f9d7d9 90%, #4f692c 100%); background-color: #4f692c}
+.plan {background-image: linear-gradient(to bottom, #4f692c 0%, #4f692c 90%, #f9d7d9 100%); background-color: #f1dcdb}
+.faqs {background-image: linear-gradient(to bottom, #f1dcdb 0%, #f1dcdb 90%, #4f692c 100%); background-color: #4f692c}
 .faqs h2 {color: #4f692c}
 .faqs h3 {color: #4f692c}
 .faqs p {color: #1e7375}
