@@ -14,6 +14,6 @@ div.invite-box {margin: 0 auto; height: 100%;}
 .intro-header {color: #f9d7d9; text-shadow: 4px 4px #4f692c; font-size: 60px;}
 .intro-subheading {color: #f9d7d9; text-shadow: 2px 2px #4f692c; font-size: 48px;}
 section {min-height: 5vh; margin-bottom: 1vh;}
-div.flex-wrapper {display: inline-flex; flex-direction: row; flex-flow: row wrap; text-align: center; width: 100%;}
+.flex-container {display: inline-flex; flex-direction: row; flex-flow: row wrap; text-align: center; width: 100%;}
 .flex-50 {width: 50%; padding 2%;}
 section.footer {margin-bottom: 50px}
