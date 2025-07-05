@@ -17,7 +17,7 @@ div.invite-box {margin: 0 auto; height: 100%;}
 .intro-subheading {color: #f9d7d9; text-shadow: 2px 2px #4f692c; font-size: 48px;}
 .intro-subsubhead {color: #fff9f6; text-shadow: 2px 2px #4f692c; font-size: 30px;}
 section {min-height: 5vh; margin-bottom: 1vh;}
-.flex-container {display: inline-flex; flex-direction: row; flex-flow: row wrap; text-align: center; width: 100%;}
+.flex-container {display: inline-flex; flex-flow: row; text-align: center; width: 100%;}
 .flex-50 {width: 48%; padding 2%;}
 section.footer {margin-bottom: 50px}
 .padded {padding: 10px 20px}
