@@ -1,5 +1,5 @@
 .body {background-color: #4f692c; margin: 2vw;}
-#intro {height: 100vw; width: 100vw; background-position: 0% 50%; background: url('piazza-pretorio.jpg'); background-size: contain;}
+#intro {height: 100vw; width: 100vw; background-position: 0% 50%; background-image: url('piazza-pretorio.jpg'); background-size: contain;}
 h1 {color: #f9d7d9; font-family: "Fira Sans", sans-serif;}
 h2 {color: #f9d7d9; font-family: "Fira Sans", sans-serif;}
 p {color: #fff; font-family: "Fira Sans", sans-serif;}
