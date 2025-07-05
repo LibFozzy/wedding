@@ -19,4 +19,7 @@ section {min-height: 5vh; margin-bottom: 1vh;}
 .flex-50 {width: 50%; padding 2%;}
 section.footer {margin-bottom: 50px}
 .padded {padding: 10px 20px}
-.intro {background-image: linear-gradient(to bottom, #4f692c 0%, #f9d7d9 75%, #f9d7d9 100%)}
+.intro {background-image: linear-gradient(to bottom, #4f692c 0%, #4f692c 85%, #f9d7d9 100%)}
+.faqs {background-color: #4f692c;}
+.faqs h2 {color: #4f692c;}
+.faqs p {color: #1e7375}
