@@ -10,5 +10,5 @@ a {color: #fff; font-family: "Fira Sans", sans-serif;}
 div.nav {width: 100%; flex-direction: row; flex-flow: row wrap; text-align: center;}
 div.invite {padding-top: 10vw;}
 div.invite-box {margin: 0 auto; height: 100%;}
-.intro-header {color: #f9d7d9; text-shadow: 2px 2px #4f692c; font-size: 96px;}
-.intro-subheader {color: #f9d7d9; text-shadow: 2px 2px #4f692c; font-size: 60px;}
+.intro-header {color: #f9d7d9; text-shadow: 4px 4px #4f692c; font-size: 60px;}
+.intro-subheading {color: #f9d7d9; text-shadow: 2px 2px #4f692c; font-size: 48px;}
