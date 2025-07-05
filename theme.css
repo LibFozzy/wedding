@@ -16,10 +16,10 @@ div.invite-box {margin: 0 auto; height: 100%;}
 .intro-header {color: #f9d7d9; text-shadow: 4px 4px #4f692c; font-size: 60px;}
 .intro-subheading {color: #f9d7d9; text-shadow: 2px 2px #4f692c; font-size: 48px;}
 .intro-subsubhead {color: #fff9f6; text-shadow: 2px 2px #4f692c; font-size: 30px;}
-section {min-height: 5vh; margin-bottom: 1vh;}
+section {min-height: 5vh; padding-bottom: 1vh;}
 .flex-container {display: inline-flex; flex-flow: row; text-align: center; width: 100%;}
 .flex-50 {width: 48%; padding 2%;}
-section.footer {margin-bottom: 50px}
+section.footer {padding-bottom: 50px}
 .padded {padding: 10px 20px}
 .plan {background-image: linear-gradient(to bottom, #4f692c 0%, #4f692c 85%, #f9d7d9 100%); background-color: #f9d7d9}
 .faqs {background-color: #f9d7d9;}
