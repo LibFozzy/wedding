@@ -8,4 +8,5 @@ a {color: #fff; font-family: "Fira Sans", sans-serif;}
 .intro-header {padding-top: 30vw;}
 .wrapper {width 100%; padding: 0% 10%;}
 div.nav {width: 100%; flex-direction: row; flex-flow: row wrap; text-align: center;}
+div.invite {margin-top: 20vw;}
 div.invite-box {margin: 0 auto; width: 30vw; height: 20vw; background-color: #4f692c;}
