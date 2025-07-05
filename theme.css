@@ -1,4 +1,4 @@
-.body {background-color: #4f692c; margin: 2vw;}
+.body {background-color: #4f692c; padding: 2vw; max-width: 100%;}
 #intro {height: 100vw; width: 100vw; background-position: 0% 50%; background-size: cover; background-repeat: no-repeat; background-image: url('piazza-pretorio.jpg');}
 h1 {color: #f9d7d9; font-family: "Fira Sans", sans-serif;}
 h2 {color: #f9d7d9; font-family: "Fira Sans", sans-serif;}
