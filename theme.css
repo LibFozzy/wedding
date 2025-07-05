@@ -15,3 +15,4 @@ div.invite-box {margin: 0 auto; height: 100%;}
 section {min-height: 5vh; margin-bottom: 1vh;}]
 .flex-wrapper {flex-direction: row; flex-flow: row wrap; text-align: center; width: 100%;}
 .flex-50 {width: 50%; padding 2%;}
+section.footer {margin-bottom: 50px}
