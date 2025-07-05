@@ -1,6 +1,10 @@
-/* --Core CSS-- */
 .body {background-color: #4f692c;}
-#intro {height: 100vw; width: 100vw;}
+#intro {height: 30vw; width: 100vw;}
 h1 {color: #f9d7d9; font-family: "Fira Sans", sans-serif;}
+h2 {color: #f9d7d9; font-family: "Fira Sans", sans-serif;}
+p {color: #fff; font-family: "Fira Sans", sans-serif;}
+a {color: #fff; font-family: "Fira Sans", sans-serif;}
 .center {text-align: center}
-.intro-header {margin-top: 45vw;}
+.intro-header {margin-top: 20vw;}
+.wrapper {width 100%; padding: 0% 10%;}
+div.nav {width: 100%; flex-direction: row; flex-flow: row wrap; text-align: center}
