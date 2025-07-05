@@ -6,5 +6,5 @@ p {color: #fff; font-family: "Fira Sans", sans-serif;}
 a {color: #fff; font-family: "Fira Sans", sans-serif;}
 .center {text-align: center}
 .intro-header {padding-top: 30vw;}
-.wrapper {width 100%; padding: 0% 10%; background-color: #4f692c;}
+.wrapper {width 100%; padding: 0% 10%;}
 div.nav {width: 100%; flex-direction: row; flex-flow: row wrap; text-align: center}
