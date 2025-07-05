@@ -17,3 +17,4 @@ section {min-height: 5vh; margin-bottom: 1vh;}
 .flex-container {display: inline-flex; flex-direction: row; flex-flow: row wrap; text-align: center; width: 100%;}
 .flex-50 {width: 50%; padding 2%;}
 section.footer {margin-bottom: 50px}
+.padded {padding: 10px 20px}
