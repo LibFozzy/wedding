@@ -8,6 +8,7 @@ a {color: #fff; font-family: "Fira Sans", sans-serif;}
 .center {text-align: center}
 .wrapper {width 100%; padding: 0% 10%;}
 div.nav {width: 100%; display: inline-flex; flex-direction: row; flex-flow: row wrap; text-align: center; height: 5vh; padding-top: 10px;}
+div.nav p {width: 100%;}
 div.invite {padding-top: 10vw;}
 div.invite-box {margin: 0 auto; height: 100%;}
 .intro-header {color: #f9d7d9; text-shadow: 4px 4px #4f692c; font-size: 60px;}
