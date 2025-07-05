@@ -22,6 +22,6 @@ section {min-height: 5vh; margin-bottom: 1vh;}
 section.footer {margin-bottom: 50px}
 .padded {padding: 10px 20px}
 .intro {background-image: linear-gradient(to bottom, #4f692c 0%, #4f692c 85%, #f9d7d9 100%); background-color: #f9d7d9}
-.faqs {background-color: #4f692c;}
-.faqs h2 {color: #f9d7d9}
+.faqs {background-color: #f9d7d9;}
+.faqs h2 {color: #4f692c}
 .faqs p {color: #1e7375}
