@@ -29,3 +29,5 @@ section.footer {padding-bottom: 50px}
 .faqs p a {color: #1e7375; font-weight: 500;}
 div.transition-gp {height: 3vh; background-image: linear-gradient(to bottom, #4f692c 0%, #4f692c 50%, #f9d7d9 100%);}
 div.transition-pg {height: 3vh; background-image: linear-gradient(to bottom, #f9d7d9 0%, #f9d7d9 50%, #4f692c 100%);}
+.iframe-container {position: relative; overflow: hidden; width: 100%; padding-top: 56.25%;}
+.map {position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%;}
