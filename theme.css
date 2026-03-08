@@ -23,12 +23,12 @@ section.footer {padding-bottom: 50px}
 .padded {padding: 10px 20px}
 .plan {background-color: #4f692c}
 .faqs {background-color: #f9d7d9}
-          .when {background-color: #f9d7d9}
+.when {background-color: #f9d7d9}
 .faqs h2 {color: #4f692c}
 .faqs h3 {color: #4f692c}
 .faqs p {color: #1e7375}
 .faqs p a {color: #1e7375; font-weight: 500;}
-          .when h2 {color: #4f692c}
+.when h2 {color: #4f692c}
 .when h3 {color: #4f692c}
 .when p {color: #1e7375}
 .when p a {color: #1e7375; font-weight: 500;}
