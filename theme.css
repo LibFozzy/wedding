@@ -52,6 +52,6 @@ div.transition-pg {height: 3vh; background-image: linear-gradient(to bottom, #f9
 .margin-bottom {margin-bottom: 20px}
 .leith-image {background-position: 50% 50%; background-size: cover; background-repeat: no-repeat; background-image: url('bayo-adegunloye-uZ-JnDsiAJU-unsplash.jpg'); border-radius: 12px;}
 .palermo-image {background-position: 50% 50%; background-size: cover; background-repeat: no-repeat; background-image: url('stepan-dudycha-WUiKoMONmoM-unsplash.jpg'); border-radius: 12px;}
-section {padding-bottom: 2vh;}
+section {padding-bottom: 0px !important; padding-top: 0px !important; margin-top: 2vh; margin-bottom: 2vh;}
 .padtop {padding-top: 20px}
 .padbottom {padding-bottom: 20px}
