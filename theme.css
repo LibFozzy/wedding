@@ -49,3 +49,5 @@ div.transition-pg {height: 3vh; background-image: linear-gradient(to bottom, #f9
 .party .button, .faqs .button, .when .button {background-color: #4f692c; color: #f9d7d9;}
 .margin-top {margin-top: 20px;}
 .margin-bottom {margin-bottom: 20px}
+.leithimage {height: 100%; width: 100%; background-position: 50% 50%; background-size: cover; background-repeat: no-repeat; background-image: url('bayo-adegunloye-uZ-JnDsiAJU-unsplash.jpg');}
+.palermoimage {height: 100%; width: 100%; background-position: 50% 50%; background-size: cover; background-repeat: no-repeat; background-image: url('stepan-dudycha-WUiKoMONmoM-unsplash.jpg');}
