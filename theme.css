@@ -46,7 +46,7 @@ div.transition-gp-2 {height: 3vh; background-image: linear-gradient(to top, #f9d
 div.transition-pg {height: 3vh; background-image: linear-gradient(to bottom, #f9d7d9 0%, #f9d7d9 50%, #4f692c 100%);}
 .iframe-container {position: relative; overflow: hidden; width: 100%; padding-top: 100%;}
 .map {position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%;}
-.button {background-color: #f9d7d9; padding: 12px 42px; color: #4f692c; border-radius: 12px; font-weight: 500; transition: all .2s ease-in-out; box-shadow: 3px 3px #1e7375;}
+.button {background-color: #f9d7d9; padding: 12px 42px; color: #4f692c; border-radius: 12px; font-weight: 500; transition: all .2s ease-in-out; box-shadow: 3px 3px #1e7375; text-decoration: none !important}
 a.button:focus, a.button:hover, a.button:active  {transform: scale(1.2);}
 .party .button, .faqs .button, .when .button {background-color: #4f692c; color: #f9d7d9;}
 .margin-top {margin-top: 20px;}
